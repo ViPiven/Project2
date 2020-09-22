@@ -633,7 +633,7 @@ p{
 
 @media (max-width: 767px) {
 
-/*  Intro  */
+    /*  Intro  */
     .intro{
         height: auto;
         padding-top: 130px;
@@ -709,6 +709,11 @@ p{
 
 }
 
-
+@media (max-width: 414px){
+    /* Reviews  */
+    .reviews__img{
+        right: -100px;
+    }
+}
 
 
